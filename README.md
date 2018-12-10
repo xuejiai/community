@@ -1,5 +1,5 @@
 
-<img alt="源计划" src="./img/Y.png"/>
+<img alt="源计划" src="./img/Y.jpg" width="700" />
 
 ## 目录
 
