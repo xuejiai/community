@@ -77,7 +77,7 @@ KM:知识管理，P:人，+:工具系统，K:知识，S:社群共享
 - 分享知识，提供各类资源
 - 提交或投票新功能特性[需求](http://xuejiai.com)
 - 更多方式请参考贡献指南、具体项目的贡献说明文档
-- 欢迎提出各种意见建议，提交[pull requests](https://github.com/kmagent/kmagent/pulls) 及 [issue](https://github.com/kmagent/kmagent/issues)。
+- 欢迎提出各种意见建议，提交[pull requests](https://github.com/xuejiai/community/pulls) 及 [issue](https://github.com/xuejiai/community/issues)。
 - 【💰 捐赠】如果您认同我们请支持我们快速持续发展。
 
 **贡献申请** 👉 [http://xuejiai-org.mikecrm.com/Z5BuYsE](http://xuejiai-org.mikecrm.com/Z5BuYsE)
