@@ -23,6 +23,7 @@
   - **热爱胜于金钱**：动机、情感、激励、责任
   - **发挥群体力量**：分享、合作和集体行动
   - **建立网络规则**：承诺、工具和协议
+- **愿景** 成为全球最大的协同学习与创新社区
 
 ## 🚀 为什么 Why?
  
@@ -65,6 +66,7 @@ KM:知识管理，P:人，+:工具系统，K:知识，S:社群共享
 - **邀请规则**：邀请一人 +10 分，及其贡献积分的 1% 提成
 - **职责**：宣传践行组织理念、积极参与贡献，维护组织共同利益
 - **权益**：参与修订规则、发布需求、共享知识及资源、按贡献积分规则获得智点、免费工具
+- 更多参考社区章程
 
 ## 👊 参与贡献
 
@@ -74,11 +76,11 @@ KM:知识管理，P:人，+:工具系统，K:知识，S:社群共享
 - **欢迎贡献自己的相关开源项目**
 - 分享知识，提供各类资源
 - 提交或投票新功能特性[需求](http://xuejiai.com)
-- 更多方式请参考具体项目的贡献说明文档
+- 更多方式请参考贡献指南、具体项目的贡献说明文档
 - 欢迎提出各种意见建议，提交[pull requests](https://github.com/kmagent/kmagent/pulls) 及 [issue](https://github.com/kmagent/kmagent/issues)。
 - 【💰 捐赠】如果您认同我们请支持我们快速持续发展。
 
-**贡献申请** 👉 [http://xuejiai-org.mikecrm.com/Z5BuYsE][3]
+**贡献申请** 👉 [http://xuejiai-org.mikecrm.com/Z5BuYsE](http://xuejiai-org.mikecrm.com/Z5BuYsE)
 ---
 
 ### 📡 工作组及研究方向
@@ -119,10 +121,12 @@ KM:知识管理，P:人，+:工具系统，K:知识，S:社群共享
 
 ## 相关文档
 
+> 可在公众号、官网、GitHub 查看相关文档
+
 | | | | |
 |:---:|:---:|:---:|:---:|
-| [**社区共识**][4] | [**社区章程**][4] | [**贡献指南**][4] | [**贡献者协议**][4]|
-|[**贡献积分规则**][4] | **贡献者列表** | **社区运营记录** | **知识管理**|
+| [**社区共识**][1] | [**社区章程**][2]   | [**贡献指南**][3] | [**贡献者协议**][4]|
+| [**积分规则**][5] | [**贡献者列表**][6] | [**运营手册**][7] | **其他**|
 
 ## 📄 知识产权
 
@@ -138,7 +142,7 @@ KM:知识管理，P:人，+:工具系统，K:知识，S:社群共享
 微信群：这里汇集了不同专业领域的人才，展开各种形式的交流合作，发现新思想、新理念，协同积累分享知识，合作学习与创新，互助让想法与梦想成为现实。
 
 入群交流，请添加微信 hua471350，备注：aikm 社区群；  
-提交贡献申请: [http://xuejiai-org.mikecrm.com/Z5BuYsE][3]
+提交贡献申请: [http://xuejiai-org.mikecrm.com/Z5BuYsE][30]
 
 - 个人微信：  
 <img alt="个人微信二维码" src="./img/aaron.png" width="160" /> 
@@ -146,8 +150,8 @@ KM:知识管理，P:人，+:工具系统，K:知识，S:社群共享
 - 公众号：  
 <img alt="公众号二维码" src="./img/qrcode.jpg" width="160" /> 
 
-- **网站**：[http://xuejiai.com][1]
-- GitHub： [github.com/xuejiai][2]
+- **网站**：[http://xuejiai.com](http://xuejiai.com)
+- GitHub： [github.com/xuejiai](https://github.com/xuejiai)
 
 😺 **期待您的加入！**
 ---
@@ -158,7 +162,12 @@ KM:知识管理，P:人，+:工具系统，K:知识，S:社群共享
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/cn/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/cn/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/cn/">知识共享署名-相同方式共享 3.0 中国大陆许可协议</a>进行许可。
 
-[1]: http://xuejiai.com
-[2]: https://github.com/xuejiai
-[3]: http://xuejiai-org.mikecrm.com/Z5BuYsE
-[4]: ./001-社区章程.md
+[1]: ./001-社区共识.md
+[2]: ./001-社区章程.md
+[3]: ./001-贡献指南.md
+[4]: ./001-贡献者协议.md
+[5]: ./001-积分规则.md
+[6]: ./001-贡献者列表.md
+[7]: ./001-运营手册.md
+
+[10]: http://xuejiai.com
