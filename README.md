@@ -5,12 +5,12 @@
 
 ### 诚邀您加入【源计划】开放社区
 
-### 🔥 第一款产品（设计中）
+### 🔥 第一款产品（最小原型设计）
 
 **学记文档**-是一种面向个人学习者，支持协同知识管理与学习的智能文档工具，从工程应用出发的创新实践，致力于在这个信息爆炸的时代，化繁为简降低知识熵，打造新一代知识载体及人机交互接口，节省时间精力，高效学习与创新，**为自己创新一个工具**
 
-[点击这里参与功能投票](http://xuejiai-org.mikecrm.com/o2mjKg6)
-[产品原型设计](https://pro.modao.cc/app/dPy9NiuRfE1qqhlaSVRm8ItQH98bicQ)
+[点击这里参与功能投票](http://xuejiai-org.mikecrm.com/o2mjKg6)  
+[产品原型设计](https://pro.modao.cc/app/4d0bde14e752cf23a4bfaa5799a3e927e30e217f)
 
 ## 目录
 
@@ -165,7 +165,7 @@ KM:知识管理，P:人，+:工具系统，K:知识，S:社群共享
 <img alt="公众号二维码" src="./img/qrcode.jpg" width="160" /> 
 
 - **网站**：[http://xuejiai.com](http://xuejiai.com)
-- GitHub： [github.com/xuejiai](https://github.com/xuejiai)
+- GitHub： [github.com/xuejiai](https://github.com/xuejiai/community)
 
 😺 **期待您的加入！**
 ---
